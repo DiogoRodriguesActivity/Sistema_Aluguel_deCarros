@@ -7,7 +7,6 @@ Projeto desenvolvido para o **Laboratório 02** da disciplina **Desenvolvimento 
 ## Integrantes
 
 - Diogo
-- _(adicionar demais integrantes)_
 
 ## Tecnologias
 

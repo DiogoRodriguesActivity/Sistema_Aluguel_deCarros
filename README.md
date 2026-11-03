@@ -19,7 +19,7 @@ Projeto desenvolvido para o **Laboratório 02** da disciplina **Desenvolvimento 
 | Banco de dados | Supabase (PostgreSQL) |
 | Autenticação | Login com usuário (e-mail) e senha, Spring Security + JWT |
 | Modelagem | UML (PlantUML): casos de uso, classes e pacotes |
-| Protótipo de telas | Figma |
+| Protótipo de telas | [Figma](https://www.figma.com/design/WZCUWD0zUlNN2NJHbErRNI/Sistema_Aluguel_deCarros?node-id=5-18761&t=4CbvglZeYtGwkkou-1) |
 
 ## Funcionalidades
 
